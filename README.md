@@ -21,7 +21,7 @@ The following resources consist of the slides taught in the respective sessions:
 	
 <tr>		
 <td align="center" >
-<span><b><center>Programs</center></b></span>
+<span><b><center>Files</center></b></span>
 </td>
 
 <td align="center">
@@ -85,7 +85,7 @@ The following resources consist of the slides taught in the respective sessions:
 </tbody>
 </table>
 
-
+---
 
 
 <p align="center">
