@@ -1,6 +1,6 @@
 <h1 align="center"> ML BOOTCAMP 🧑‍💻</h1>
 <p align="center">
- <img src="" > <br> 
+ <img src="https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png" > <br> 
 </p>
 
 ![](./Frame_poster.png)
@@ -52,7 +52,7 @@ The following resources consist of the slides taught in the respective sessions:
 <span><center>requirements</center></span>
 </td>
 <td align="center">
-<a href="./ML-Bootcamp/requirements.txt">Link</a>
+<a href="./requirements.txt">Link</a>
 </td>
 </tr>
 
@@ -61,7 +61,7 @@ The following resources consist of the slides taught in the respective sessions:
 <span><center>procfile</center></span>
 </td>
 <td align="center">
-<a href="./ML-Bootcamp/Procfile.unknown">Link</a>
+<a href="./Procfile.unknown">Link</a>
 </td>
 </tr>
   
@@ -70,7 +70,7 @@ The following resources consist of the slides taught in the respective sessions:
 <span><center> app.py</center></span>
 </td>
 <td align="center">
-<a href="./ML-Bootcamp/app.py">Link</a>
+<a href="./app.py">Link</a>
 </td>
 </tr>
 
@@ -79,7 +79,7 @@ The following resources consist of the slides taught in the respective sessions:
 <span><center> final_code</center></span>
 </td>
 <td align="center">
-<a href="./ML-Bootcamp/movierecfinal.py">Link</a>
+<a href="./movierecfinal.py">Link</a>
 </td>
 </tr>
 </tbody>
