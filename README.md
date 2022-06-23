@@ -3,7 +3,7 @@
  <img src="" > <br> 
 </p>
 
-![](./ML-Bootcamp/Frame_poster.png)
+![](./Frame_poster.png)
 
 ML Bootcamp is an interactive workshop, in which participants will learn about content based filtering, collaborative filtering design a recommendation system from scratch learn how to make these above models accessible by using Flask Framework and host the API on Microsoft Azure
 
